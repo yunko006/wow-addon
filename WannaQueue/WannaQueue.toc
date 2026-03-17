@@ -1,0 +1,8 @@
+## Interface: 120001
+## Title: WannaQueue
+## Notes: Auto-accept les role checks LFG pour ne jamais rater une queue.
+## Author: yunko006
+## Version: 1.0.0
+## SavedVariables: WannaQueueDB
+
+WannaQueue.lua
