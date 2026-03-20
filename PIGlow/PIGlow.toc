@@ -1,0 +1,9 @@
+## Interface: 120001
+## Title: PIGlow
+## Notes: PI Timer Calculator - alerts you when to cast Power Infusion based on target's cooldowns.
+## Author: yunko006
+## Version: 3.0.0
+## SavedVariables: PIGlowDB
+
+PIGlow_SpellDB.lua
+PIGlow.lua
