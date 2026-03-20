@@ -7,6 +7,8 @@ Collection d'addons WoW Midnight (12.0).
 | Addon | Description |
 |-------|-------------|
 | [WannaQueue/](WannaQueue/) | Auto-accept les role checks LFG |
+| [PIGlow/](PIGlow/) | Glow raid frames quand quelqu'un MP pour Power Infusion (universel) |
+| [PIGlowDander/](PIGlowDander/) | Version legere de PIGlow, exclusivement pour Dander Frames |
 
 ## Installation
 
